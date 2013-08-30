@@ -1,0 +1,130 @@
+About the Author
+Sarath Lakshman is a 21 year old who was bitten by the Linux bug during his teenage
+years. He is an undergraduate student of Computer Science and Engineering at Model
+Engineering College, Cochin, Kerala.
+Sarath is a life hacker who loves to explore innovations. He is a GNU/Linux enthusiast
+and hactivist of free and open source software. He spends most of his time hacking
+with computers and having fun with his great friends. Sarath is well known as the
+developer of SLYNUX (2005)—a user friendly GNU/Linux distribution for Linux newbies.
+The free and open source software projects he has contributed to are PiTiVi Video editor,
+SLYNUX GNU/Linux distro, Swathantra Malayalam Computing, School-Admin, Istanbul,
+and the Pardus Project. He has authored many articles for the Linux For You magazine
+on various domains of FOSS technologies. He had made a contribution to several
+different open source projects during his multiple Google Summer of Code projects.
+He currently lives with his parents in Kerala. Sarath can be reached via his website
+http://www.sarathlakshman.com.
+I would like to thank my friends and family for the great support and
+encouragement they have given me for all my endeavors. I would like
+to thank my friends Anu Mahadevan and Neenu Jacob for the tireless
+enthusiasm and patience to read through the chapter developments
+and providing comments during development. I would also like to thank
+Mr. Atanu Datta for helping me come up with the chapter titles. I extend
+my gratitude to the team at Packt Publishing who helped me in making this
+book happen.
+About the Reviewers
+Aric Pedersen is the author of cPanel User Guide and Tutorial (ISBN 978-1-904811-
+92-3) and Web Host Manager Administration Guide (ISBN 978-1-904811-50-3), both
+written for Packt Publishing. He also served as a reviewer for CUPS Administrative Guide
+(ISBN 978-1-84719-258-5) and Linux E-mail Second Edition (ISBN 978-1-847198-64-8)
+published by Packt Publishing.
+Aric has over nine years of experience working as a System Administrator. He currently
+works for Hostdime.com, the world-class web host; and also for Netenberg.com,
+makers of Fantastico, the world's most popular web script installer for cPanel servers.
+I would like to thank PMUG (http://www.pmug-nj.org/) for years of
+interesting content and camaraderie.
+John L Weatherwax has been in love with computers ever since he had access to
+one. An applied mathematician by trade, he began his study of computer programming
+with the Pascal programming language on the computer that his father bought way
+before most people had even thought of using a computer for anything truly practical.
+As an undergraduate, he obtained dual degrees in physics and mathematics from the
+University of Missouri Columbia and as a graduate student he obtained a Ph.D. from M.I.T.
+in Applied Mathematics. After graduating, he worked for many years applying pattern
+recognition techniques to various problems in electrical engineering before transitioning to
+mathematical finance. In school, he was strongly influenced by the UNIX/Linux philosophy
+of using simpler component programs together to solve larger problems. Many years later,
+while exploring various trading strategies as a quantitative analysis at a Wall Street firm,
+he still uses UNIX commands and the UNIX philosophy on a daily basis. Most of the work
+he does now is related to using mathematical models to predict prices and trade various
+financial instruments. He spends his free time working on applied mathematics and pattern
+recognition (much of which can be found on his website at http://waxworksmath.com/)
+and spending time with his family.
+www.PacktPub.com
+Support files, eBooks, discount offers, and more
+You might want to visit www.PacktPub.com for support files and downloads related to
+your book.
+Did you know that Packt offers eBook versions of every book published, with PDF and
+ePub files available? You can upgrade to the eBook version at www.PacktPub.com and
+as a print book customer, you are entitled to a discount on the eBook copy. Get in touch
+with us at service@packtpub.com for more details.
+At www.PacktPub.com, you can also read a collection of free technical articles, sign up
+for a range of free newsletters and receive exclusive discounts and offers on Packt books
+and eBooks.
+http://PacktLib.PacktPub.com
+Do you need instant solutions to your IT questions? PacktLib is Packt's online digital book
+library. Here, you can access, read, and search across Packt's entire library of books.
+Why Subscribe?
+•	 Fully searchable across every book published by Packt
+•	 Copy and paste, print, and bookmark content
+•	 On demand and accessible via web browser
+Free Access for Packt account holders
+If you have an account with Packt at www.PacktPub.com, you can use this to access
+PacktLib today and view nine entirely free books. Simply use your login creden
+Table of Contents
+Preface	
+Chapter 1: Shell Something Out	
+Introduction	
+Printing in the terminal	
+Playing with variables and environment variables	
+Doing math calculations with the shell	
+Playing with file descriptors and redirection	
+Arrays and associative arrays	
+Visiting aliases	
+Grabbing information about terminal	
+Getting, setting dates, and delays	
+Debugging the script	
+Functions and arguments	
+Reading the output of a sequence of commands	
+Reading "n" characters without pressing Return	
+Field separators and iterators	
+Comparisons and tests	
+Chapter 2: Have a Good Command	
+Introduction	
+Concatenating with cat	
+Recording and playback of terminal sessions	
+Finding files and file listing	
+Playing with xargs	
+Translating with tr	
+Checksum and verification	
+Sorting, unique and duplicates	
+Temporary file naming and random numbers	
+Splitting files and data	
+www.it-ebooks.info
+1
+7
+7
+9
+12
+17
+19
+25
+27
+29
+30
+33
+35
+38
+40
+41
+44
+49
+50
+50
+53
+55
+63
+69
+72
+75
+80
+81
+
